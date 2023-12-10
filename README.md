@@ -1,9 +1,5 @@
 ### Olá, Eu sou a Niedja Lucena! 👋🏽👩🏾‍💻
 
-![Niedja GitHub stats](https://github-readme-stats.vercel.app/api?username=niedja92&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niedja92&layout=donut&theme=radical)](https://github.com/niedja92/github-readme-stats)
-
 ### Tecnologias que eu uso no meu dia 💻🚀
 
 <div style="display: inline_block"><br/>
@@ -12,7 +8,14 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div><br />
+
+### Estatísticas do GitHub 📊
+
+![Niedja GitHub stats](https://github-readme-stats.vercel.app/api?username=niedja92&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niedja92&layout=donut&theme=radical)](https://github.com/niedja92/github-readme-stats)
+
 
 ### Conecte-se comigo 🌐 
 
