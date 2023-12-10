@@ -2,6 +2,8 @@
 
 ![Niedja GitHub stats](https://github-readme-stats.vercel.app/api?username=niedja92&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niedja92&layout=donut&theme=radical)](https://github.com/niedja92/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia 💻🚀
 
 <div style="display: inline_block"><br/>
