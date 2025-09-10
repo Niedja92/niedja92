@@ -1,4 +1,7 @@
 ### Olá, Eu sou a Niedja Lucena! 👋🏽👩🏾‍💻
+[<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Automatizados-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
 
 ### Tecnologias que eu uso no meu dia 💻🚀
 
@@ -10,7 +13,8 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="71" height="20"/>
     <img align="center" alt="cypress" src="https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress"/>
     <img align="center" alt="postman" src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman"/>
-    
+    <img align="center" alt="gherkin" src="https://img.shields.io/badge/-Gherkin-333333?style=flat&logo=cucumber"/>
+    <img align="center" alt="cucumber" src="https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber"/>
 </div><br />
 
 ### Estatísticas do GitHub 📊
