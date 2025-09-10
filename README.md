@@ -1,5 +1,6 @@
 ### Olá, Eu sou a Niedja Lucena! 👋🏽👩🏾‍💻
 [<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Automatizados-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Unitarios-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
 
